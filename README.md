@@ -32,7 +32,7 @@ This repository contains the **static website** for P.Pilot's **Terms & Conditio
 
 For questions regarding this repository or the app, please contact:
 
-📧 Email: your-email@example.com
+📧 Email: julioponsdev777@gmail.com
 
 ---
 
