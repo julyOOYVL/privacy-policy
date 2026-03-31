@@ -12,7 +12,7 @@ Welcome to the official repository for **P.Pilot**, the aviation app designed to
 - Generate reports and PDFs for individual days or entire months.
 
 ### 2. Time Calculator
-- Simple calculations (e.g., 23 hours + 6 hours 23 minutes).  
+- Simple calculations (e.g., 23 hours 54 minutes + 6 hours 23 minutes).  
 - Calculate elapsed time between two hours.  
 - Calculate total minutes.
 
