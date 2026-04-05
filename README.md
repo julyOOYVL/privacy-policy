@@ -26,7 +26,7 @@ Welcome to the official repository for **P-Pilot**, the aviation app designed to
 
 ## Repository Purpose
 
-This repository contains the **static website** for P-Pilot's **Privacy Policy**. The website is hosted on **GitHub Pages** and provides a public link to comply with Google Play Store and other app stores' legal requirements.
+This repository contains the **static website** for P-Pilot's **Privacy Policy**. The website is hosted on **GitHub Pages** and provides a public link to comply with Google Play Store and App Store.
 
 ## Contact
 
