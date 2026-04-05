@@ -1,10 +1,10 @@
-# P.Pilot - Legal Website
+# P-Pilot - Legal Website
 
-Welcome to the official repository for **P.Pilot**, the aviation app designed to help pilots manage their flight schedules, calculate flight times, and track their hours efficiently. This repository hosts the **Privacy Policy** website for the app.
+Welcome to the official repository for **P-Pilot**, the aviation app designed to help pilots manage their flight schedules, calculate flight times, and track their hours efficiently. This repository hosts the **Privacy Policy** website for the app.
 
-## About P.Pilot
+## About P-Pilot
 
-**P.Pilot** is a multilingual aviation application available in English, Spanish, French, German, and Chinese. Its main features include:
+**P-Pilot** is a multilingual aviation application available in English, Spanish, French, German, and Chinese. Its main features include:
 
 ### 1. Calendar
 - View a monthly calendar and log flights by day.  
@@ -26,7 +26,7 @@ Welcome to the official repository for **P.Pilot**, the aviation app designed to
 
 ## Repository Purpose
 
-This repository contains the **static website** for P.Pilot's **Terms & Conditions** and **Privacy Policy**. The website is hosted on **GitHub Pages** and provides a public link to comply with Google Play Store and other app stores' legal requirements.
+This repository contains the **static website** for P-Pilot's **Privacy Policy**. The website is hosted on **GitHub Pages** and provides a public link to comply with Google Play Store and other app stores' legal requirements.
 
 ## Contact
 
