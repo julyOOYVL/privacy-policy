@@ -1,6 +1,6 @@
 # P.Pilot - Legal Website
 
-Welcome to the official repository for **P.Pilot**, the aviation app designed to help pilots manage their flight schedules, calculate flight times, and track their hours efficiently. This repository hosts the **Terms & Conditions** and **Privacy Policy** website for the app.
+Welcome to the official repository for **P.Pilot**, the aviation app designed to help pilots manage their flight schedules, calculate flight times, and track their hours efficiently. This repository hosts the **Privacy Policy** website for the app.
 
 ## About P.Pilot
 
